@@ -2,5 +2,12 @@
     background-color: black;
     color: #ccca00;
     text-align: center;
-    list-style-type: none;
+    list-style: inside;
+}
+p {
+    margin: 5px;
+}
+img {
+    height: 500px;
+    width: auto;
 }
